@@ -37,6 +37,9 @@ diff -c $filename1 $9
 	fi
 fi
 
+echo "The difference between two files "
+	diff -c $file1 $file2
+
 
 
  
